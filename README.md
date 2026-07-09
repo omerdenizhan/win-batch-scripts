@@ -10,7 +10,8 @@ You can use it on Windows 7/8/10/11 operating systems.
 
 ## 📌 Main Features
 - Hibernate mode on or off
-- Open `.m3u` and `.m3u8` playlists
+- Onedrive complete uninstall
+- For Microsoft Windows 11 Home & Home Single Edition Local Security Principle
 
 ## 📌 How to Use
 Download the scripts.cmd file to your computer and start using it by running it as administrator.
