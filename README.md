@@ -1,5 +1,5 @@
 <p align="center"><img src="logo-main.png" alt="Logo"></p>
-<h1 align="center">⭐ CMD SCRIPTS ⭐</h1>
+<h1 align="center">⭐ BATCH SCRIPTS ⭐</h1>
 
 I am presenting to you the command prompt script I compiled for use on my personal computer.
 
