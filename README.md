@@ -1,5 +1,5 @@
 <p align="center"><img src="logo-main.png" alt="Logo"></p>
-<h1 align="center">⭐ BATCH SCRIPTS ⭐</h1>
+<h1 align="center">⭐ Batch Scripts ⭐</h1>
 
 I am presenting to you the command prompt script I compiled for use on my personal computer.
 
@@ -18,7 +18,7 @@ You can use it on Windows 7/8/10/11 operating systems.
 Download the `batch-scripts.bat` file to your computer and start using it by running it as administrator.
 
 ## 🕰️ Last Update
-July 10, 2026
+July 17, 2026
 
 ---
 <p align="center">❤️ Made with Love ❤️</p>
