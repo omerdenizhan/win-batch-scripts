@@ -18,7 +18,7 @@ You can use it on Windows 7/8/10/11 operating systems.
 Download the `batch-scripts.bat` file to your computer and start using it by running it as administrator.
 
 ## 🕰️ Last Update
-July 17, 2026
+Sept 15, 2026
 
 ---
 <p align="center">❤️ Made with Love ❤️</p>
