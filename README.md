@@ -20,7 +20,6 @@ Download the `batch-scripts.bat` file to your computer and start using it by run
 ---
 
 ## 📄 License
-
 This project is released into the public domain under the [Unlicense](https://unlicense.org/); you are free to use, modify, and distribute it as you wish. See the [`LICENSE`](LICENSE) file for details.
 
 ---
